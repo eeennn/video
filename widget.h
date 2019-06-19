@@ -48,9 +48,9 @@ private:
     QVideoWidget *videoWidget;
 
     QStringList strListFileName;//文件名称对应的列表
-    QStringList strListUrlName;
+    QStringList strListUrlName;//文件路径
 
-    QStandardItemModel *model;
+    QStandardItemModel *model;//模型
 
 };
 
