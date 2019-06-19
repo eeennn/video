@@ -4,7 +4,7 @@
 #
 #-------------------------------------------------
 
-QT       += core gui multimedia multimediawidgets
+QT       += core gui multimedia multimediawidgets                       #multimedia multimediawidgets是视频播放器需要用到
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
