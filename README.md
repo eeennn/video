@@ -3,6 +3,8 @@
 
 简单视频播放器（项目是Qt Wiggets Application）
 
+![image](https://github.com/eeennn/video/blob/master/images/11111111222222222222223333333333333.png)
+
 开发环境：用QT5.9.0开发，LAVFilters-0.65用来适配mp4播放的插件。
 
 QT5.9.0：http://download.qt.io/archive/qt/5.9/
